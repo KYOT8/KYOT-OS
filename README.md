@@ -9,7 +9,7 @@ Jest to moja pierwsza próba, więc prace postępują powoli, ale jestem pełen 
 Łączę szkołę, pracę i naukę, dlatego aktualizacje mogą być nieregularne.
 ### Roadmapa
 
-- [ ] Przygotowanie środowiska do budowy ISO (maszyna wirtualna, Cubic)  
+- [X] Przygotowanie środowiska do budowy ISO (maszyna wirtualna, Cubic)  
 - [ ] Pierwszy remiks Ubuntu z podstawowymi zmianami (tapety, motywy)  
 - [ ] Dodanie własnych aplikacji i konfiguracji  
 - [ ] Projekt i implementacja własnego instalatora  
@@ -27,7 +27,7 @@ Balancing school, work, and learning means updates may be irregular.
 
 ### Roadmap
 
-- [ ] Setup build environment (VM, Cubic)  
+- [X] Setup build environment (VM, Cubic)  
 - [ ] First Ubuntu remix with basic changes (wallpapers, themes)  
 - [ ] Add custom apps and configurations  
 - [ ] Design and implement custom installer  
