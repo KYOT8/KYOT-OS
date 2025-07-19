@@ -1,8 +1,17 @@
-PL/PL
-Jest to male przedsiewziecie gdzie można sie utowrzyc własność dysstrubuje linuxa oprata na Ubuntu. Chce stworzyc walsny interfejs instaltor itd.
-jest to pierwsza moja taka próba stad powolne dzialnie lecz jestem dobrych mysli ze uda sie stworzyc a nawet wypuscic do szerszego grona.
-Staram sie polaczyc szkole/prace/nauke i wlasnie takie projekty stad nie regularnosc w aktualizacjach
+# Moja własna dystrybucja Linux oparta na Ubuntu / My Custom Ubuntu-Based Linux Distro
 
-ENG/ENG
-This is a small venture where you can create your own Linux distribution based on Ubuntu. I want to create my own installer interface, etc. This is my first attempt at this, hence the slow progress, but Im optimistic that Ill be able to create it and even release it to a wider audience.
-I'm trying to combine school/work/study and these are the projects that make up the irregularity in updates.
+## PL
+
+To małe przedsięwzięcie ma na celu stworzenie własnej dystrybucji Linuksa opartej na Ubuntu.  
+Chcę stworzyć własny interfejs instalatora, unikalny wygląd oraz funkcjonalności dostosowane do moich potrzeb.  
+Jest to moja pierwsza próba, więc prace postępują powoli, ale jestem pełen optymizmu, że uda się ją rozwinąć i wypuścić szerzej.  
+
+Łączę szkołę, pracę i naukę, dlatego aktualizacje mogą być nieregularne.
+
+## ENG
+
+This small project aims to create a custom Linux distribution based on Ubuntu.  
+I want to develop my own installer interface, unique look, and functionalities tailored to my needs.  
+This is my first attempt, so progress is slow, but I’m optimistic about developing and releasing it to a wider audience.  
+
+Balancing school, work, and learning means updates may be irregular.
